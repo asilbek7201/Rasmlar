@@ -1,0 +1,66 @@
+.rangi-oq {
+  font-style: oblique;
+  color: black;
+}
+
+header {
+  background-color: #f9f9f9;
+}
+
+.url {
+  color: black;
+}
+
+.bokknomy {
+  position: absolute;
+  right: 20%;
+  top: 20%;
+}
+
+.soni1 {
+  background-color: blue;
+  font-size: 200%;
+}
+
+.sonii {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 200%;
+}
+
+.sonin {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 200%;
+}
+
+.color {
+  background-color: #f9f9f9;
+  width: 35%;
+  color: red;
+}
+
+.soniii {
+  background-color: #f9f9f9;
+  width: 65%;
+  color: red;
+}
+
+.inter {
+  background-color: gray;
+}
+
+.salomm {
+  background-color: transparent;
+}
+
+.komputer {
+  background-color: transparent;
+  position: relative;
+  left: 15%;
+}
+
+.booknomy {
+  position: relative;
+  right: 3%;
+}

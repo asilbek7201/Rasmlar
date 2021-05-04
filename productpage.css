@@ -1,0 +1,53 @@
+.rangi-oq {
+  font-style: oblique;
+  color: black;
+}
+
+header {
+  background-color: #f9f9f9;
+}
+
+.url {
+  color: black;
+}
+
+.ipxone {
+  width: 2%;
+  display: flex;
+}
+
+.fon {
+  position: relative;
+  right: 25%;
+}
+
+.tel {
+  width: 10%;
+}
+
+.tell {
+  width: 17%;
+}
+
+.tel1 {
+  width: 13%;
+}
+
+.tel2 {
+  width: 20%;
+}
+
+.tel3 {
+  width: 13%;
+}
+
+.tel4 {
+  width: 6.5%;
+}
+
+.tel3,
+.tel4 {
+  position: relative;
+  right: 7%;
+  top: 4%;
+}
