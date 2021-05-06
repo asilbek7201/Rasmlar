@@ -51,3 +51,16 @@ header {
   right: 7%;
   top: 4%;
 }
+
+footer {
+  background-color: grey;
+}
+
+.m div a h4 {
+  padding: 3rem;
+  color: black;
+}
+
+.colorrrr {
+  color: black;
+}

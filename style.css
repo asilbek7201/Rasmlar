@@ -115,10 +115,6 @@ header {
   left: 50%;
 }
 
-.iddd {
-  background-color: wheat;
-}
-
 .button-x {
   position: absolute;
   left: 40%;
@@ -151,4 +147,17 @@ header {
   font-weight: bold;
   position: relative;
   left: 20%;
+}
+
+footer {
+  background-color: grey;
+}
+
+.m div a h4 {
+  padding: 3rem;
+  color: black;
+}
+
+.colorrrr {
+  color: black;
 }

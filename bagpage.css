@@ -64,3 +64,16 @@ header {
   position: relative;
   right: 3%;
 }
+
+.mishka001 {
+  width: 10%;
+}
+
+footer {
+  background-color: grey;
+}
+
+.m div a h4 {
+  padding: 3rem;
+  color: black;
+}
